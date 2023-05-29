@@ -1,4 +1,4 @@
-"use strict";
+"use strict2";
 
 const AWS = require("aws-sdk")
 

@@ -1,4 +1,4 @@
-"use strict";
+"use strict2";
 
 const {v4} = require("uuid");
 const AWS = require("aws-sdk")

@@ -1,4 +1,4 @@
-"use strict";
+"use strict2";
 
 const hello = async (event) => {
 //module.exports.hello = async (event) => {
